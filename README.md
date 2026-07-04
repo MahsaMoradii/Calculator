@@ -4,6 +4,6 @@
 html,css,js
 ساخته شده است
     
-<a href="MahsaMoradii.github.io/Calculator/index.html">
+<a href="https://MahsaMoradii.github.io/Calculator/index.html">
 دموی آنلاین ماشین حساب
 </a>
