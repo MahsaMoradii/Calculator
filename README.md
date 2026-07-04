@@ -1,10 +1,9 @@
-    #    ماشین حساب
+#    ماشین حساب
     
+یک ماشین حساب که با تکنولوژی های
+html,css,js
+ساخته شده است
     
-        یک ماشین حساب که با تکنولوژی های
-        html,css,js
-        ساخته شده است
-    
-     <a href="MahsaMoradii.github.io/Calculator/index.html">
-        دموی آنلاین ماشین حساب
-     </a>
+<a href="MahsaMoradii.github.io/Calculator/index.html">
+دموی آنلاین ماشین حساب
+</a>
